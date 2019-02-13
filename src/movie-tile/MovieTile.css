@@ -1,0 +1,11 @@
+.movie-tile{
+    height: 500px;
+    width: 300px;
+    float: left;
+}
+
+.poster{
+    height: 444px;
+    width: 300px;
+    border-radius: 5%;
+}

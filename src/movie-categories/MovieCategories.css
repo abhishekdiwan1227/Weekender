@@ -1,0 +1,12 @@
+.sidenav {
+    position: absolute;
+    top: 7vh;
+    z-index: 1;
+    background-color: rgb(221, 221, 221);
+    overflow-x: hidden;
+    border-radius: .3rem;
+}
+
+.movie-category {
+    display: block;
+}
